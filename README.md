@@ -26,4 +26,4 @@ This program computes the combinations in two ways: recursively and iteratively.
 ## Notes
 * Combination will handle repeated characters in a string and will not double print the same combination.
 * Combination differentiates between upper case and lower case, so "A" and "a" are not equivalent.
-  
+* The order of combinations do not matter, so the program does not sort its output. The output is printed in the order it exists in the list.
