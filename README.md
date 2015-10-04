@@ -22,8 +22,8 @@ This program computes the combinations in two ways: recursively and iteratively.
   ```
   { {a, b, c, d}, {a, b, c}, {a, b, d}, {a, b}, {a, c, d}, {a, c}, {a, d}, {a}, {b, c, d}, {b, c}, {b, d}, {b}, {c, d}, {c}, {d}, {} }
   ```
-  
-  ### Notes
-  * Combination will handle repeated characters in a string and will not double print the same combination.
-  * Combination differentiates between upper case and lower case, so "A" and "a" are not equivalent.
+
+## Notes
+* Combination will handle repeated characters in a string and will not double print the same combination.
+* Combination differentiates between upper case and lower case, so "A" and "a" are not equivalent.
   
